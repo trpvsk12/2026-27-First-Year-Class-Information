@@ -1,1 +1,20 @@
-*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#f4f7fb;color:#1f2937}header{background:linear-gradient(135deg,#123b70,#1d6fb8);color:#fff;padding:28px 0;text-align:center}.container{max-width:1250px;margin:auto;padding:0 20px}h1{margin:0 0 8px;font-size:30px}header p{margin:0;opacity:.9}main{padding-top:28px;padding-bottom:35px}#search{width:100%;padding:16px 18px;border:1px solid #cbd5e1;border-radius:10px;font-size:16px;outline:none;background:#fff}.summary{margin:18px 0;color:#475569;font-weight:bold}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}.card{background:#fff;border-radius:14px;padding:20px;box-shadow:0 3px 12px rgba(0,0,0,.08);border-top:5px solid #1d6fb8}.card h2{margin:0 0 15px;color:#123b70;font-size:21px}.row{padding:9px 0;border-bottom:1px solid #e5e7eb}.row:last-child{border-bottom:none}.label{display:block;font-size:12px;font-weight:bold;text-transform:uppercase;color:#64748b;margin-bottom:3px}.value{font-size:15px;font-weight:500}.phone{color:#0f5fa8;font-weight:bold}footer{text-align:center;padding:18px;background:#123b70;color:white}@media(max-width:600px){h1{font-size:24px}.container{padding:0 14px}}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f4f7fb;color:#1f2937}
+header{background:linear-gradient(135deg,#123b70,#1d6fb8);color:#fff;padding:28px 0;text-align:center}
+.container{max-width:1250px;margin:auto;padding:0 20px}
+h1{margin:0 0 8px;font-size:30px}
+header p{margin:0;opacity:.9}
+.install-btn{margin-top:18px;padding:11px 22px;border:none;border-radius:8px;background:white;color:#123b70;font-weight:bold;font-size:15px;cursor:pointer}
+main{padding-top:28px;padding-bottom:35px}
+#search{width:100%;padding:16px 18px;border:1px solid #cbd5e1;border-radius:10px;font-size:16px;outline:none;background:#fff}
+.summary{margin:18px 0;color:#475569;font-weight:bold}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.card{background:#fff;border-radius:14px;padding:20px;box-shadow:0 3px 12px rgba(0,0,0,.08);border-top:5px solid #1d6fb8}
+.card h2{margin:0 0 15px;color:#123b70;font-size:21px}
+.row{padding:9px 0;border-bottom:1px solid #e5e7eb}
+.row:last-child{border-bottom:none}
+.label{display:block;font-size:12px;font-weight:bold;text-transform:uppercase;color:#64748b;margin-bottom:3px}
+.value{font-size:15px;font-weight:500}
+.phone{color:#0f5fa8;font-weight:bold}
+footer{text-align:center;padding:18px;background:#123b70;color:white}
+@media(max-width:600px){h1{font-size:24px}.container{padding:0 14px}}

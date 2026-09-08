@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123b70">
+  <meta name="description" content="First Year Class Incharges and Classroom Information">
   <title>First Year Class Information</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,12 +15,12 @@
     <div class="container">
       <h1>First Year Class Information</h1>
       <p>Class Incharges and Classroom Allocation</p>
+      <button id="installBtn" class="install-btn" hidden>⬇ Install App</button>
     </div>
   </header>
 
   <main class="container">
     <input id="search" type="search" placeholder="Search by class, faculty, classroom, block or floor...">
-
     <div id="summary" class="summary"></div>
     <div id="cards" class="grid"></div>
   </main>
