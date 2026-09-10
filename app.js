@@ -16,7 +16,7 @@ const classes = [
   {dept:"ECE", class:"ECE A", incharge:"Mr. M. Sundareshwaran", phone:"7373574531", block:"Block 1", floor:"6th Floor", room:"LH-61"},
   {dept:"ECE", class:"ECE B", incharge:"Dr. S. Sridevi", phone:"9629647557", block:"Block 1", floor:"6th Floor", room:"LH-62"},
   {dept:"ECE", class:"ECE C", incharge:"Dr. S. Martin Raja", phone:"9787809024", block:"Block 1", floor:"6th Floor", room:"LH-54"},
-  {dept:"AIML", class:"AIML", incharge:"Ms. S. Varshini", phone:"8667041728", block:"Not Available", floor:"Not Available", room:"Not Available"}
+  {dept:"AIML", class:"AIML", incharge:"Ms. S. Varshini", phone:"8667041728", block:"Block 1", floor:"6th Floor", room:"LH-60"}
 ];
 
 const cards=document.getElementById("cards");
