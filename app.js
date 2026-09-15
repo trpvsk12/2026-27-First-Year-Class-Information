@@ -12,7 +12,7 @@ const classes = [
   {dept:"MECH", class:"MECH B", incharge:"Dr. R. Pradeeban", phone:"7904070295", block:"Block 2", floor:"3rd Floor", room:"LH-17"},
   {dept:"AI & DS", class:"AI & DS A", incharge:"Mr. P. Ravi Kumar", phone:"6369722362", block:"Block 1", floor:"6th Floor", room:"LH-57"},
   {dept:"AI & DS", class:"AI & DS B", incharge:"Dr. A. Rajina Banu", phone:"9176953535", block:"Block 1", floor:"6th Floor", room:"LH-58"},
-  {dept:"AI & DS", class:"AI & DS C", incharge:"Dr. S. R. Karpagam", phone:"7538879314", block:"Block 1", floor:"6th Floor", room:"LH-59"},
+  {dept:"AI & DS", class:"AI & DS C", incharge:"Dr. S. R. Karpagam", phone:"7397054192", block:"Block 1", floor:"6th Floor", room:"LH-59"},
   {dept:"ECE", class:"ECE A", incharge:"Mr. M. Sundareshwaran", phone:"7373574531", block:"Block 1", floor:"6th Floor", room:"LH-61"},
   {dept:"ECE", class:"ECE B", incharge:"Dr. S. Sridevi", phone:"9629647557", block:"Block 1", floor:"6th Floor", room:"LH-62"},
   {dept:"ECE", class:"ECE C", incharge:"Dr. S. Martin Raja", phone:"9787809024", block:"Block 1", floor:"6th Floor", room:"LH-54"},
